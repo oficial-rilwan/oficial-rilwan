@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rilwan</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oficial-rilwan" alt="oficial-rilwan" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javasctipt, TypeScript, ReactJS, NodeJS, Express, Mongodb**
 
-- 📫 How to reach me **aribidesirilwan@mail.com**
+- 📫 How to reach me **aribidesirilwan@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
