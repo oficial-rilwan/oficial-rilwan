@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rilwan</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
-
-- 💬 Ask me about **Javasctipt, TypeScript, ReactJS, NodeJS, Express, Mongodb, MySQL**
+<h3 align="center">
+ A passionate fullstack engineer with 2+ years of experience in developing web applications. Skilled at writing clear, concise code that is easy to maintain and troubleshoot.
+</h3>
 
 - 📫 How to reach me **aribidesirilwan@hotmail.com**
 
