@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rilwan</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **SQL, My SQL**
-
-- 👨‍💻 All of my projects are available at [https://rilwandev.netlify.app](https://rilwandev.netlify.app)
-
-- 💬 Ask me about **Javasctipt, TypeScript, ReactJS, NodeJS, Express, Mongodb**
+- 💬 Ask me about **Javasctipt, TypeScript, ReactJS, NodeJS, Express, Mongodb, MySQL**
 
 - 📫 How to reach me **aribidesirilwan@hotmail.com**
 
